@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hello git!5 by master");
         System.out.println("hello git!5 by hot-fix");
         System.out.println("push github by master test");
+        System.out.println("pull github by web");
     }
 }
